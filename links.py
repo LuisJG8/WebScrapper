@@ -1,0 +1,3 @@
+BEST_BUY_URL = []
+MICRO_CENTER_URL = []
+NEWEGG_URL = []
